@@ -18,7 +18,7 @@ This framework was set up to test Currency client https://exchangeratesapi.io/do
 3. Clone the repository
 
 ```bash
-git clone <git_repo>
+git clone https://github.com/abhisheksawant16/acronis.git
 ```
 4. Change to the project root directory
 
